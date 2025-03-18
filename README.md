@@ -48,7 +48,7 @@ GitHub Actions is a built-in automation platform within GitHub that simplifies C
 - **Highly customizable** – Workflows can be tailored to specific project needs.
 
 
-### [My GitHub Actions Workflow For Project](https://github.com/hanin-mohamed/Spring-boot-demo/blob/main/.github/workflows/ci-cd-pipeline.yml)
+### [My GitHub Actions Workflow For Project](https://github.com/hanin-mohamed/Spring-boot-demo/blob/main/.github/workflows/main.yml)
 
 This workflow defines key steps to validate and package the project on every push, ensuring a smooth and reliable development cycle.
 
